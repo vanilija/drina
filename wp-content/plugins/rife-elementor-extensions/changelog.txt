@@ -1,0 +1,39 @@
+----------------
+
+= 1.1.2(12.06.2019) =
+
+Fixed:
+-Firing the writing effect when it is used at very bottom of the page
+
+----------------
+
+= 1.1.1(16.05.2019) =
+
+Added:
+-Compatibility with WordPress 5.2
+
+Improved:
+-look of instruction pages in WordPress 5.2
+
+----------------
+
+= 1.1.0(29.11.2018) =
+
+Added:
+-New template named "Pile"
+
+Improved:
+-keyboard navigation through plugin
+
+----------------
+
+= 1.0.1(16.08.2018) =
+
+Fixed:
+-including scripts only when they are needed
+
+----------------
+
+= 1.0.0(27.07.2018) =
+
+-Initial release
