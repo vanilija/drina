@@ -9,3 +9,5 @@
 ## 12 partnera
 ## 5,000 potencijalnih posjeta platformi
 
+![Fotografija](https://i1.wp.com/drina.wpdevcloud.com/wp-content/uploads/2019/07/phone-x-final.png?fit=1080%2C1925&ssl=1)
+
